@@ -1,0 +1,10 @@
+[credential]
+	helper = store
+[user]
+	name = dark1142
+	password = 8hron8CGl6
+	email = zxcv135967@gmail.com
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
